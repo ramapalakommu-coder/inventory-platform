@@ -1,0 +1,3 @@
+# config-server
+
+Scaffold module.

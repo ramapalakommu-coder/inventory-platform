@@ -1,0 +1,3 @@
+# product-service
+
+Scaffold module.
